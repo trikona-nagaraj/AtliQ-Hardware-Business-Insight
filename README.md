@@ -146,7 +146,7 @@ Insights
 Finance View:
 -----------
 
-Net Sales:
+* Net Sales:
 ---------
 Net sales of the company had a steady growth from 29.11 million in 2018 to 3.74 billion in 2022 showing a hike each year this indicates extra-ordinary growth of the company. However, When compared to the targets to be achieved in the year 2022 the company was lagging behind by 1.86% in achieving the target provided. 
 
@@ -154,11 +154,11 @@ Net sales of the company had a steady growth from 29.11 million in 2018 to 3.74 
 -	Sales in each region had exceptional growth overtime except ‘Latin America’ where all sub-regions especially ‘columbo’  had least sales.
 -	When looked into the products Networking Segment Product sales are declining over the past 3 year’s.
 
-Gross Margin %:
+* Gross Margin %:
 --------------
 - Gm% has been stable over the years with a clearance of ± 5. The company was 0.66% behind in achieving the overall gross margin %. 
 
-Net Profit %:
+* Net Profit %:
 ------------
 NP Obtained is decreasing every year and had experienced profit only in the year 2019 with 2.21% of net sales. The company is expanding as we notice greater sales thus we can assume that the company at its initial face focuses on getting into the market rather than making profits. Also the company had a target of having a loss no more than 14.19% which has been achieved. 
  
