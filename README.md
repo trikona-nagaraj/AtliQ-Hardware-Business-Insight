@@ -122,3 +122,22 @@ Table & Matrix:
 -	3 scorecards showing the forecast accuracy, net error and absolute error.
 
 .
+
+Executive View
+------------
+
+![Executive View](https://user-images.githubusercontent.com/78613343/227526353-06df734a-ab3c-4217-8f78-139b77107589.png)
+.
+
+To Summarize Major insights of all department dashboards and major look into overall growth of Atliq company.
+
+-	4 scorecards which show the growth number of Net sales, Gross margin%, Net Profit % and forecast accuracy.
+-	Key insights by subzone w.r.t the metrics above are shown in a table visual.
+-	Two donut charts to represent revenue by division and by channel.
+-	A Combined line & and clustered column chart to view the yearly trend by revenue, Gross margin %, Net profit % and atliq market share percentage by Fiscal year description.
+-	A ribbon chart to view the market share percentage.
+-	Two tables have been introduced to know the top 5 customers and products by revenue.
+
+
+.
+
