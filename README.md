@@ -53,7 +53,7 @@ To Summarize P&L statements and monitor Net sales, gross margin and net profit w
 -	Two matrix visuals have been included to view top and bottom customers and products with respect to the selected P&L value.
 
 .
-.
+
 
 
 Sales View
@@ -69,5 +69,39 @@ Sales department is focused on the Net sales achieved and the gross margin recei
 -	The slicer lets us know the customers whose gm variance % is greater than or equal to the value we have set in the slicer. 
 -	Below to the Quadrant scatter visual made we have two donut charts one representing the amount of post and pre-Invoice discounts are provided to obtain a certain number of Net sales. And the next donut chart shows the Gross margin obtained from the Net sales and the Total cost of goods sold to receive the gross margin. Thisinsight can be seen for each customer.
 
+
+.
+
+
+Marketing View
+------------
+
+![Marketting View](https://user-images.githubusercontent.com/78613343/227524920-02089cc1-a8d0-47bd-b4cf-7dae0de74b70.png)
+.
+
+Marketing view FOCUSES ON PRODUCTS, running ads and doing marketing for those products. This section will focus on Net Profit because they should not spend much on marketing so that net profit does not impacting. 
+
+
+Matrix visual:
+ 
+Key metrics like net profit and net profit% along with net sales and gross margin are analyzed in terms of products and market which are drilled down to sub categories further individually.
+
+Scatter plot: 
+ 
+Where gm% and np% are provided on y axis which can be switched according to the analysis requirements. 
+On x-axis, Net sales is shown.
+segment, category and value are taken as values which show the bubbles which can be drill down and up, division as legend, gm% as tool tip (hovering mouse will show this value), NS as size of the bubble.
+
+
+Donut chart:
+-	Gross margin and the total cogs costs are shown.
+
+Note:
+-	Net profit, gm and the operational cost are to be shown but net profit is in negative value so we are using waterfall chart to show that.
+
+Waterfall chart:
+
+
+-	This chart shows the amount of gross margin received from total net sales and the operating cost. Also it shows the net profit obtained.
 
 .
