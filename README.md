@@ -17,6 +17,8 @@ A dashboard considering different sections such as Finance view, Sales view, Mar
 
 \
 
+Home Page
+---------
 
 ![Home Page](https://user-images.githubusercontent.com/78613343/227519364-04fb1853-7b05-48a7-90ee-99d62435fd75.png)
 
