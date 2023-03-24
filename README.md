@@ -42,8 +42,9 @@ Finance View
 ------------
 
 ![Finance View](https://user-images.githubusercontent.com/78613343/227523117-64cf117f-fbfe-4df7-8346-865de95595d3.png)
+
 .
-.
+
 To Summarize P&L statements and monitor Net sales, gross margin and net profit with respect to regions, customers and products.
 -	 In the present finance view we have 3 scorecards for key metrics like Net sales, gross margin % and Net profit percentage.
 -	 A table viewing the P&L statement having values of selected year, benchmark value ( LY / Target), Chg between both in dollars and in percentage. 
