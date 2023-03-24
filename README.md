@@ -15,7 +15,7 @@ A dashboard considering different sections such as Finance view, Sales view, Mar
 
 ### The Document further will be elaborated in terms of Overall picture of each View/department dashboard follwed by the description. Further key Insights from Each View are illustrated.
 
-
+\
 
 
 ![Home Page](https://user-images.githubusercontent.com/78613343/227519364-04fb1853-7b05-48a7-90ee-99d62435fd75.png)
