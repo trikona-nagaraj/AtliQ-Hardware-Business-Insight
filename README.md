@@ -186,6 +186,21 @@ NP Obtained is decreasing every year and had experienced profit only in the year
 .
 
 
+Sales View:
+-----------
+.
 
+-	Lowest net sales continued for the customer ‘Nova’ from year 2020 to 2022 but had around 25 to 30% of gross margin every year. Also, in 2022 the gross margin % was the lowest among other customers, this lets us know that sales department is giving more discount to the customer but sales remain low.
+-	Networking products have always been the lowest net sales category each year.
+-	From the scatter chart we see that below are the customers whose gross margin is lagging more than 10% of the target value.
+-	
+![image](https://user-images.githubusercontent.com/78613343/227637905-b866fab6-1957-4ce7-bd4a-998f92868cf3.png)
+-
+-	Below donut chart to the left shows the amount of pre-invoice and total post invoice discounts percentage to obtain 50.69% of net sales. Almost 49% of discounts had to be offered to generate 50% of net sales in year 2022.
+-	The donut chart to the right shows 61.92% of Total cost of goods sold is included to obtain 38.08% of gross margin in the year 2022.
+-
+![image](https://user-images.githubusercontent.com/78613343/227638032-ffbffbec-f7c5-4fcc-b708-7cfb01233aaf.png)
+
+.
 
 
