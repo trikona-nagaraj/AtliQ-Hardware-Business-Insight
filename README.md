@@ -138,64 +138,39 @@ To Summarize Major insights of all department dashboards and major look into ove
 -	A ribbon chart to view the market share percentage.
 -	Two tables have been introduced to know the top 5 customers and products by revenue.
 
-
 .
-
 
 Insights
---------
-
-.
+-------
 
 Finance View:
 -----------
-.
 
-Net Sales: 
-.
-
+Net Sales:
+---------
 Net sales of the company had a steady growth from 29.11 million in 2018 to 3.74 billion in 2022 showing a hike each year this indicates extra-ordinary growth of the company. However, When compared to the targets to be achieved in the year 2022 the company was lagging behind by 1.86% in achieving the target provided. 
 
 -	The trend in sales over the years indicates, the company always had higher Net sales from Oct to Dec every year. Therefore, management should look into factors which made the sales increase in this period and should try to implement accordingly. Also, decrease in sales each year from the start of December is seen each year the reason behind this should be found and taken care to prevent. 
 -	Sales in each region had exceptional growth overtime except ‘Latin America’ where all sub-regions especially ‘columbo’  had least sales.
 -	When looked into the products Networking Segment Product sales are declining over the past 3 year’s.
- ![image](https://user-images.githubusercontent.com/78613343/227529372-d31b7a32-2be3-4c41-a2ba-183138da71ad.png)
-
- 
-.
 
 Gross Margin %:
-
+--------------
 - Gm% has been stable over the years with a clearance of ± 5. The company was 0.66% behind in achieving the overall gross margin %. 
 
-.
-
 Net Profit %:
+------------
 NP Obtained is decreasing every year and had experienced profit only in the year 2019 with 2.21% of net sales. The company is expanding as we notice greater sales thus we can assume that the company at its initial face focuses on getting into the market rather than making profits. Also the company had a target of having a loss no more than 14.19% which has been achieved. 
-
-![image](https://user-images.githubusercontent.com/78613343/227529447-a1f68634-0ab1-4ef3-a12f-3ebb8dc057a8.png)
-
- .
  
 - In 2022 est, the networking segment P&L Values are declining, upon examining the Market, EU Regions like France, Netherlands and Austria etc are the major areas of low business. These regions should be focused more in terms of networking segment Products.
 
-![image](https://user-images.githubusercontent.com/78613343/227529640-00f71bb6-a64d-43c0-a679-278513bc9d21.png)
-.
 Sales View:
 -----------
-.
-
 -	Lowest net sales continued for the customer ‘Nova’ from year 2020 to 2022 but had around 25 to 30% of gross margin every year. Also, in 2022 the gross margin % was the lowest among other customers, this lets us know that sales department is giving more discount to the customer but sales remain low.
 -	Networking products have always been the lowest net sales category each year.
 -	From the scatter chart we see that below are the customers whose gross margin is lagging more than 10% of the target value.
--	
-![image](https://user-images.githubusercontent.com/78613343/227637905-b866fab6-1957-4ce7-bd4a-998f92868cf3.png)
--
 -	Below donut chart to the left shows the amount of pre-invoice and total post invoice discounts percentage to obtain 50.69% of net sales. Almost 49% of discounts had to be offered to generate 50% of net sales in year 2022.
 -	The donut chart to the right shows 61.92% of Total cost of goods sold is included to obtain 38.08% of gross margin in the year 2022.
--
-![image](https://user-images.githubusercontent.com/78613343/227638032-ffbffbec-f7c5-4fcc-b708-7cfb01233aaf.png)
 
-.
 
 
