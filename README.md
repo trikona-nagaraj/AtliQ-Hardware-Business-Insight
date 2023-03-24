@@ -165,7 +165,8 @@ Net sales of the company had a steady growth from 29.11 million in 2018 to 3.74 
 .
 
 Gross Margin %:
-Gm% has been stable over the years with a clearance of ± 5. The company was 0.66% behind in achieving the overall gross margin %. 
+
+- Gm% has been stable over the years with a clearance of ± 5. The company was 0.66% behind in achieving the overall gross margin %. 
 
 .
 
