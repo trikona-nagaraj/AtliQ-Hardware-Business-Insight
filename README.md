@@ -146,7 +146,7 @@ Insights
 Finance View:
 -----------
 
-* Net Sales:
+    Net Sales:
 ---------
 Net sales of the company had a steady growth from 29.11 million in 2018 to 3.74 billion in 2022 showing a hike each year this indicates extra-ordinary growth of the company. However, When compared to the targets to be achieved in the year 2022 the company was lagging behind by 1.86% in achieving the target provided. 
 
@@ -154,13 +154,13 @@ Net sales of the company had a steady growth from 29.11 million in 2018 to 3.74 
 -	Sales in each region had exceptional growth overtime except ‘Latin America’ where all sub-regions especially ‘columbo’  had least sales.
 -	When looked into the products Networking Segment Product sales are declining over the past 3 year’s.
 
-* Gross Margin %:
+  Gross Margin %:
 --------------
 .
 - Gm% has been stable over the years with a clearance of ± 5. The company was 0.66% behind in achieving the overall gross margin %. 
 - 
 
-* Net Profit %:
+   Net Profit %:
 ------------
 NP Obtained is decreasing every year and had experienced profit only in the year 2019 with 2.21% of net sales. The company is expanding as we notice greater sales thus we can assume that the company at its initial face focuses on getting into the market rather than making profits. Also the company had a target of having a loss no more than 14.19% which has been achieved. 
  
@@ -183,6 +183,24 @@ Marketing View:
 - Category wise the products which are to the left of the chart should be shifted to the right top quadrant such that we have maximum net sales with maximum net profit %, gross margin %.
 - The Operational cost for the goods is high then the gross margin received. The company is presently at a loss which can be seen from the waterfall chart.
 - The matrix visuals show the least and highest net proft % losses incurred in terms of products and markets.
+
+
+Supply Chain View:
+-----------
+
+-	The forecast accuracy has improved grom last year by 1.2% and in the present year the accuracy is 81.17%. Below are the customers and products where we should improve the forecast accuracy.
+-	Considering all product types, the company had 3472.7 K items out of stock in the year 2022. And total of 6899 K of items have been wrongly forecasted.
+-	The net error which is represented by the bar in the chart shows the inventory deficient is increasing but the forecast accuracy has an increase from previous year considering first 4 months. 
+
+
+Executive View:
+-----------
+
+-	Atliq’s market share had no visible market share before 2021 but built up its market from 2021  by 1.06% to 5.87% by the end of year 2022.
+-	Forecast accuracy, net sales and gross margin% are improving by the end of 2022 compared to previous years but the net profit is negative.
+
+
+
 
 
 
