@@ -35,8 +35,9 @@ Problem Statement
 -----------------
 
 ![Problem statement1](https://user-images.githubusercontent.com/78613343/227520891-bd2d6c87-7af2-4c56-b654-0d6dcc78e562.png)
+
 .
-.
+
 
 Finance View
 ------------
@@ -52,4 +53,21 @@ To Summarize P&L statements and monitor Net sales, gross margin and net profit w
 -	Two matrix visuals have been included to view top and bottom customers and products with respect to the selected P&L value.
 
 .
+.
 
+
+Sales View
+------------
+
+![sales View](https://user-images.githubusercontent.com/78613343/227524211-b9d43911-e55b-4228-b477-9d87a73e14fd.png)
+.
+
+Sales department is focused on the Net sales achieved and the gross margin received from the sales done with each customer also considering the product sales.
+
+-	A table visual with customers and a matrix visual consisting Products with key metrics Net sales, Gross margin and the gross margin % is shown on the left
+-	To the right of the dashboard, we have a Scatter chart showing different quadrants with respect to Net sales on X-axis and Gross margin % on Y-axis. This visual lets us know the market’s & customer’s growth in terms of the metrics giving a detailed understanding of the growth stage of the business.
+-	The slicer lets us know the customers whose gm variance % is greater than or equal to the value we have set in the slicer. 
+-	Below to the Quadrant scatter visual made we have two donut charts one representing the amount of post and pre-Invoice discounts are provided to obtain a certain number of Net sales. And the next donut chart shows the Gross margin obtained from the Net sales and the Total cost of goods sold to receive the gross margin. Thisinsight can be seen for each customer.
+
+
+.
