@@ -156,7 +156,9 @@ Net sales of the company had a steady growth from 29.11 million in 2018 to 3.74 
 
 * Gross Margin %:
 --------------
+.
 - Gm% has been stable over the years with a clearance of ± 5. The company was 0.66% behind in achieving the overall gross margin %. 
+- 
 
 * Net Profit %:
 ------------
@@ -171,6 +173,16 @@ Sales View:
 -	From the scatter chart we see that below are the customers whose gross margin is lagging more than 10% of the target value.
 -	Below donut chart to the left shows the amount of pre-invoice and total post invoice discounts percentage to obtain 50.69% of net sales. Almost 49% of discounts had to be offered to generate 50% of net sales in year 2022.
 -	The donut chart to the right shows 61.92% of Total cost of goods sold is included to obtain 38.08% of gross margin in the year 2022.
+
+ 
+Marketing View:
+-----------
+
+-	In the latest year 2022 we find that notebook have high net sales but the gross margin is least, pricing and discounts are to be taken care and segments like peripherals and accessories have low net sales and gross margin therefore more ads and promotions are to be made to improve the market for products under these segments.
+-	Also the net profit % also has the same pattern of insights considering these segment products. Measures should be taken to increase the Gross margin and lower the operational costs to improve the net profit%.
+- Category wise the products which are to the left of the chart should be shifted to the right top quadrant such that we have maximum net sales with maximum net profit %, gross margin %.
+- The Operational cost for the goods is high then the gross margin received. The company is presently at a loss which can be seen from the waterfall chart.
+- The matrix visuals show the least and highest net proft % losses incurred in terms of products and markets.
 
 
 
