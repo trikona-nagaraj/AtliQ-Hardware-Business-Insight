@@ -173,7 +173,6 @@ Gross Margin %:
 Net Profit %:
 NP Obtained is decreasing every year and had experienced profit only in the year 2019 with 2.21% of net sales. The company is expanding as we notice greater sales thus we can assume that the company at its initial face focuses on getting into the market rather than making profits. Also the company had a target of having a loss no more than 14.19% which has been achieved. 
 
-
 ![image](https://user-images.githubusercontent.com/78613343/227529447-a1f68634-0ab1-4ef3-a12f-3ebb8dc057a8.png)
 
  .
@@ -181,11 +180,7 @@ NP Obtained is decreasing every year and had experienced profit only in the year
 - In 2022 est, the networking segment P&L Values are declining, upon examining the Market, EU Regions like France, Netherlands and Austria etc are the major areas of low business. These regions should be focused more in terms of networking segment Products.
 
 ![image](https://user-images.githubusercontent.com/78613343/227529640-00f71bb6-a64d-43c0-a679-278513bc9d21.png)
-
-
 .
-
-
 Sales View:
 -----------
 .
