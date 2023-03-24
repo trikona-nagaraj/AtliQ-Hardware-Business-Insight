@@ -25,10 +25,10 @@ Home Page
 ![Home Page](https://user-images.githubusercontent.com/78613343/227519364-04fb1853-7b05-48a7-90ee-99d62435fd75.png)
 
 .
-.
 
 Navigation to each View is enabled through icons provided along with the tool tip when hovered on it. Also a Dynamic data refresh Date is provided to have knowledge about latest data refresh.
 .
+
 .
 
 
