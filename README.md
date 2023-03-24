@@ -8,6 +8,6 @@ Objective:
 
 A dashboard considering different sections such as Finance view, Sales view, Marketing view, Supply Chain, Executive View such that stakeholders can unlock insights and enable data driven decision making.
 
-## The Document further will be elaborated in terms of Overall picture of each View/department dashboard follwed by the description. Further key Insights from Each View are illustrated.
+#The Document further will be elaborated in terms of Overall picture of each View/department dashboard follwed by the description. Further key Insights from Each View are illustrated.
 
 
