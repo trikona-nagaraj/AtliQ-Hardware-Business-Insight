@@ -84,11 +84,11 @@ Marketing view FOCUSES ON PRODUCTS, running ads and doing marketing for those pr
 
 Matrix visual:
  
-Key metrics like net profit and net profit% along with net sales and gross margin are analyzed in terms of products and market which are drilled down to sub categories further individually.
+- Key metrics like net profit and net profit% along with net sales and gross margin are analyzed in terms of products and market which are drilled down to sub categories further individually.
 
 Scatter plot: 
  
-Where gm% and np% are provided on y axis which can be switched according to the analysis requirements. 
+- Where gm% and np% are provided on y axis which can be switched according to the analysis requirements. 
 On x-axis, Net sales is shown.
 segment, category and value are taken as values which show the bubbles which can be drill down and up, division as legend, gm% as tool tip (hovering mouse will show this value), NS as size of the bubble.
 
@@ -103,5 +103,22 @@ Waterfall chart:
 
 
 -	This chart shows the amount of gross margin received from total net sales and the operating cost. Also it shows the net profit obtained.
+
+.
+
+Supply chain  View
+------------
+
+![Supply chain View](https://user-images.githubusercontent.com/78613343/227525642-02e4c17c-f97f-43db-be04-bd6a913e0edb.png)
+.
+
+supply chain team will make sure that there is enough inventory in the manufacturing to meet the demand.
+Clustered Column Chart:
+-	Shows the combination line and column visuals of net error each month in selected year and the last year.
+
+Table & Matrix:
+-	A tabular visual data listing customers and key metrics like forecast accuracy and net error also a column describing the inventory stage if it is excess or out of stock for the customer. The same matrics with the product segment categories.
+
+-	3 scorecards showing the forecast accuracy, net error and absolute error.
 
 .
