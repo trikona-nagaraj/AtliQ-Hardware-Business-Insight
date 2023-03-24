@@ -147,7 +147,7 @@ Insights
 
 .
 
-Finace View:
+Finance View:
 -----------
 .
 
