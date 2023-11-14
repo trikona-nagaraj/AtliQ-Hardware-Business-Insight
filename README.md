@@ -1,17 +1,30 @@
 # AtliQ Hardware Business Insights 360
 
-The Present project is Built to improve Domain Knowledge on various Departmets in Eletronics Manufacturing & Distribution along with improving tool Knowledge (Power BI)
+The Present project is Built to improve Domain Knowledge on various Departmets in Eletronics Manufacturing & Distribution along with improving tool Knowledge (Power BI).
+
+Link to Live Dashboard - https://codebasics.io/portfolio/Nagaraj-Trikona
 
 
 Problem Statement: 
 -----------------
 
-AtliQ Hardware is a consumer goods electronics company having operations in various countries. Their business is growing rapidly and they still rely on excel files for data analytics. Excel files are hard to consume and not effective in generating insights. Also due to the lack of effective analytics the company faced a major loss in Latin America. Senior executives of this company have decided to invest in a data analytics project and have assigned a team for this work.
+AtliQ Hardware is an Electronics Goods Manufacturing company having operations in various countries. Their business is growing rapidly over the years but they had a bitter experience in regards to their recent establishment in Latin America acquiring huge loss. This was due to their incorrect decision making which are taken relying on surveys they conducted, excel sheets and their intuitions.
 
-Objective:
+Hence, the company prioritized on-boarding data analytics and to make data driven decisions through an analytics solution. My role in this project will be is to Build a reports and provide insights considering various departments such as Finance view, Sales view, Marketing view, Supply Chain, on top of these we will have an Executive View with overall picture of the business such that stakeholders can unlock insights and enable data driven decision making.
+
+
+
+Task:
 ---------
 
-A dashboard considering different sections such as Finance view, Sales view, Marketing view, Supply Chain, Executive View such that stakeholders can unlock insights and enable data driven decision making.
+As a Data Analyst generate insights through reports built considering different sections such as 
+* Finance view
+* Sales view
+* Marketing view
+* Supply Chain
+* Executive View
+
+such that stakeholders can unlock insights and enable data driven decision making.
 
 
 .
