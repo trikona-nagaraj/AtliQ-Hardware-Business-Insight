@@ -1,5 +1,6 @@
-# Business-Insight-360
+# AtliQ Hardware Business Insights 360
 
+The Present project is Built to improve Domain Knowledge on various Departmets in Eletronics Manufacturing & Distribution along with improving tool Knowledge (Power BI)
 
 
 Problem Statement: 
