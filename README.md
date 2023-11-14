@@ -27,18 +27,10 @@ As a Data Analyst generate insights through reports built considering different 
 such that stakeholders can unlock insights and enable data driven decision making.
 
 
-.
+Key Features
 
-### The Document further will be elaborated in terms of Overall picture of each View/department dashboard follwed by the description. Further key Insights from Each View are illustrated.
 
-.
 
-Home Page
----------
-
-![Home Page](https://user-images.githubusercontent.com/78613343/227519364-04fb1853-7b05-48a7-90ee-99d62435fd75.png)
-
-.
 
 Navigation to each View is enabled through icons provided along with the tool tip when hovered on it. Also a Dynamic data refresh Date is provided to have knowledge about latest data refresh.
 
